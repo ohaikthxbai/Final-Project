@@ -1,6 +1,8 @@
 import React from 'react';
 
-const Navbar = () => (
+class  Navbar extends React.Component {
+  render() {
+    return(
   <div className="navbar-fixed">
     <nav>
       <div className="nav-wrapper">
@@ -13,6 +15,8 @@ const Navbar = () => (
       </div>
     </nav>
   </div>
-);
+    )
+  }
+}
 
 export default Navbar;
