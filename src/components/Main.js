@@ -1,13 +1,13 @@
-import React from  'react';
+import React from 'react';
 import './style.css';
 
 class Main extends React.Component {
     render() {
-        return(
+        return (
             <main>
                 <div className="container">
                     <h1>Content Here!!</h1>
-                    </div>
+                </div>
             </main>
         )
     }
