@@ -6,7 +6,7 @@ class Main extends React.Component {
         return(
             <main>
                 <div className="container">
-                    <h1>testing!</h1>
+                    <h1>Content Here!!</h1>
                     </div>
             </main>
         )
