@@ -6,12 +6,10 @@ class Main extends React.Component {
         return (
             <main>
                 <div className="container">
-                    <div className="section z-depth-5">
-                            <ul>
-                                <li><a className="waves-effect waves-light btn-large">Sign up</a></li>
-                                <li><a className="waves-effect waves-light btn-large">About</a></li>
-                                <li><a className="waves-effect waves-light btn-large">Create Bracket</a></li>
-                            </ul>
+                    <div id="main-sec" className="section z-depth-5">
+                        <a className="waves-effect waves-light btn-large brown lighten-2">Sign up</a>
+                        <a className="waves-effect waves-light btn-large brown lighten-2">About</a>
+                        <a className="waves-effect waves-light btn-large teal lighten-1">Create Bracket</a>
                     </div>
                 </div>
             </main>

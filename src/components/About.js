@@ -6,7 +6,7 @@ class About extends React.Component {
         return (
             <main>
                 <div className="container">
-                    <div className="section z-depth-5">
+                    <div id="about-sec" className="section about z-depth-5">
                         <h1>this is the about section</h1>
                     </div>
                 </div>
