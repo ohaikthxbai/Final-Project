@@ -19,11 +19,12 @@ main {
 }
 
 #main-sec {
-    height: auto;
+    height: 200px;
     background-color: white;
 }
 
 #about-sec {
+    height: 300px;
     background-color: white;
 }
 
