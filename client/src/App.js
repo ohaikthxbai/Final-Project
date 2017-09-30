@@ -1,10 +1,15 @@
 import React, { Component } from 'react';
-import Navbar from './components/Navbar';
-import Footer from './components/Footer';
-import Main from './components/Main';
-import Banner from './components/Banner';
-import About from './components/About';
-import './components/style.css';
+import Navbar from './components/Navbar/Navbar';
+import Footer from './components/Footer/Footer';
+import Main from './components/Main/Main';
+import Banner from './components/Banner/Banner';
+import About from './components/About/About';
+import './components/Navbar/Nav.css';
+import './components/Footer/Footer.css';
+import './components/Main/Main.css';
+import './components/Banner/Banner.css';
+import './components/About/About.css';
+
 
 class App extends Component {
   render() {

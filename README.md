@@ -21,3 +21,5 @@ bracketSize = Math.pow(2, rounds);
 
 #render the bracket
 renderBracket(param?)
+
+
