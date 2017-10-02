@@ -1,9 +1,11 @@
 import React from 'react';
 import './Main.css';
+import { BrowserRouter as Router, Link, Route } from 'react-router-dom';
 
 class Main extends React.Component {
     render() {
         return (
+            <Router>
             <main>
                 <div className="container">
                     <div id="main-sec" className="section z-depth-5">
@@ -13,6 +15,7 @@ class Main extends React.Component {
                     </div>
                 </div>
             </main>
+            </Router>
         )
     }
 }
