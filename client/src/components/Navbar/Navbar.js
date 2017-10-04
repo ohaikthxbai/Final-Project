@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Link, Route } from 'react-router-dom';
-import About from "../About/About";
+//import About from "../About/About";
 
 
 class Navbar extends React.Component {
@@ -19,11 +19,6 @@ class Navbar extends React.Component {
             </ul>
           </div>
         </nav>
-        <ul className="side-nav" id="mobile-demo">
-        <li><Link to="/about">About</Link></li>
-        <li><Link to="/signup">Sign up</Link></li>
-        <li><Link to="/login">Log in</Link></li>
-      </ul>
       </div>
       </Router>
     )
