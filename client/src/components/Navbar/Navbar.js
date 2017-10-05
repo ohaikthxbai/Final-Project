@@ -10,7 +10,7 @@ class Navbar extends React.Component {
       <div className="navbar-fixed">
         <nav>
           <div className="nav-wrapper">
-            <a href="" className="brand-logo">Final Project Name</a>
+            <a href="" className="brand-logo">TBG</a>
             <a href="" data-activates="mobile-demo" className="button-collapse"><i className="material-icons">menu</i></a>
             <ul className="right hide-on-med-and-down">
               <li><Link to="/about">About</Link></li>

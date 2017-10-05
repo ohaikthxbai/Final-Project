@@ -6,15 +6,21 @@ class Main extends React.Component {
     render() {
         return (
             <Router>
-            <main>
-                <div className="container">
-                    <div id="main-sec" className="section z-depth-5">
-                        <a className="waves-effect waves-light btn brown lighten-2">Sign up</a>
-                        <a className="waves-effect waves-light btn brown lighten-2">About</a>
-                        <a className="waves-effect waves-light btn teal lighten-1">Create Bracket</a>
+                <main>
+                    <div className="container">
+                        <div id="main-sec" className="section z-depth-5">
+                            <div>
+                                <h2>Organize and run tournaments</h2>
+                                <p>Create brackets for your favorite sports and events!</p>
+                            </div>
+                            <ul>
+                                <li><a className="waves-effect waves-light btn brown lighten-2">Sign up</a></li>
+                                <li><a className="waves-effect waves-light btn brown lighten-2">About</a></li>
+                                <li><a className="waves-effect waves-light btn teal lighten-1">Create Bracket</a></li>
+                            </ul>
+                        </div>
                     </div>
-                </div>
-            </main>
+                </main>
             </Router>
         )
     }

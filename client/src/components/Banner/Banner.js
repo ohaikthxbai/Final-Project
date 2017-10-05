@@ -7,7 +7,7 @@ class Banner extends React.Component {
             <main>
                 <div className="container">
                     <div className="section">
-                        <h1>TITLE/INFO</h1>
+                        <h1>Tournament Bracket Generator</h1>
                     </div>
                 </div>
             </main>
