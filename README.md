@@ -1,5 +1,45 @@
 # Final-Project
-Tournament Bracket Generator
+BRING IT!
+Bracket Generator
+
+This web app allows users to create a bracket to set up tournaments
+and/or keep track of existing tournaments. 
+
+Features:
+    Sign up to create an account
+        Username
+        Email address(?)
+        Password
+
+    Login
+        Simple dashboard:
+            View previous brackets created
+            Create and save brackets to their account
+            Revisit and edit existing brackets
+    
+    About
+        information about the application
+        about the developer (ME) behind the application
+        libraries/apis used
+        materialize css
+
+    Create Bracket
+        Enter a name for the bracket
+        Choose the type:
+            Single Elimination
+            Randomized
+        Bracket size:
+            choose a number:
+                GET AT LEAST A BRACKET OF 8 WORKING
+                max 256
+            enter the entrants in a text field
+            ** upload a text file to read
+        
+Future Goals:
+    Double Elimination
+    Round Robin
+    Match seeding
+    File upload (if current goal doesn't meet deadline)
 
 notes:
 

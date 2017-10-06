@@ -14,8 +14,8 @@ class Main extends React.Component {
                                 <p>Create brackets for your favorite sports and events!</p>
                             </div>
                             <ul>
-                                <li className="main-btns"><a className="waves-effect waves-light btn brown lighten-2">Sign up</a></li>
                                 <li className="main-btns"><a className="waves-effect waves-light btn brown lighten-2">About</a></li>
+                                <li className="main-btns"><a className="waves-effect waves-light btn brown lighten-2">Sign up</a></li>
                                 <li className="main-btns"><a className="waves-effect waves-light btn teal lighten-1">Create Bracket</a></li>
                             </ul>
                         </div>
