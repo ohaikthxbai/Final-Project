@@ -5,6 +5,7 @@ import Footer from './components/Footer/Footer';
 import Main from './components/Main/Main';
 import Banner from './components/Banner/Banner';
 import About from './components/About/About';
+import Login from './components/Login/Login';
 import './components/Navbar/Nav.css';
 import './components/Footer/Footer.css';
 import './components/Main/Main.css';
