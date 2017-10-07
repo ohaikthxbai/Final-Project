@@ -15,7 +15,7 @@ class Main extends React.Component {
                             </div>
                             <ul>
                                 <li className="main-btns"><a className="waves-effect waves-light btn brown lighten-2">About</a></li>
-                                <li className="main-btns"><a className="waves-effect waves-light btn brown lighten-2">Sign up</a></li>
+                                <li className="main-btns"><a className="waves-effect waves-light btn brown lighten-2 modal-trigger" href="#sign-up">Sign up</a></li>
                                 <li className="main-btns"><a className="waves-effect waves-light btn teal lighten-1">Create Bracket</a></li>
                             </ul>
                         </div>

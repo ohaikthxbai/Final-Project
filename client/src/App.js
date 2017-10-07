@@ -20,9 +20,29 @@ class App extends Component {
       <body>
         <ul className="side-nav" id="mobile-demo">
           <li><Link to="/about">About</Link></li>
-          <li><Link to="/signup">Sign up</Link></li>
-          <li><Link to="/login">Log in</Link></li>
+          <li><a className="modal-trigger" href="#sign-up">Sign up</a></li>
+          <li><a className="modal-trigger" href="#log-in">Log in</a></li>
         </ul>
+
+        <div id="sign-up" className="modal modal-fixed-footer">
+            <div className="modal-content">
+              <h4>Sign Up</h4>
+              <p>A bunch of text</p>
+            </div>
+            <div className="modal-footer">
+              <a href="#!" className="modal-action modal-close waves-effect waves-green btn-flat ">Agree</a>
+            </div>
+          </div>
+
+          <div id="log-in" className="modal modal-fixed-footer">
+            <div className="modal-content">
+              <h4>Log in</h4>
+              <p>A bunch of text</p>
+            </div>
+            <div className="modal-footer">
+              <a href="#!" className="modal-action modal-close waves-effect waves-green btn-flat ">Agree</a>
+            </div>
+          </div>
         <Navbar />
         <Banner />
         <Main />
