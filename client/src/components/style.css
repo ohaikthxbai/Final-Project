@@ -14,3 +14,7 @@ main {
     height: 200px;
     background-color: white;
 }
+
+.modal-content {
+    width: auto;
+}

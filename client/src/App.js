@@ -25,30 +25,30 @@ class App extends Component {
 
           {/* SIGN UP */}
           <div id="sign-up" className="modal modal-fixed-footer">
-            <div className="modal-content">
+            <div className=" container modal-content">
               <h3>Sign Up</h3>
               <div className="row">
-                <form className="center-align">
+                <form className="col s12">
                   <div className="row">
-                    <div className="input-field col s6">
+                    <div className="input-field col s12">
                       <input id="user_name" type="text" className="validate"></input>
                       <label for="user_name">User Name</label>
                     </div>
                   </div>
                   <div className="row">
-                    <div className="input-field col s6">
+                    <div className="input-field col s12">
                       <input id="email" type="text" className="validate"></input>
                       <label for="email">Email Address</label>
                     </div>
                   </div>
                   <div className="row">
-                    <div className="input-field col s6">
+                    <div className="input-field col s12">
                       <input id="pw" type="text" className="validate"></input>
                       <label for="pw">Password</label>
                     </div>
                   </div>
                   <div className="row">
-                    <div className="input-field col s6">
+                    <div className="input-field col s12">
                       <input id="confirm_pw" type="text" className="validate"></input>
                       <label for="confirm_pw">Confirm Password</label>
                     </div>
@@ -64,20 +64,22 @@ class App extends Component {
 
           {/* LOG IN*/}
           <div id="log-in" className="modal modal-fixed-footer">
-            <div className="modal-content">
+            <div className="container modal-content">
               <h3>Log in</h3>
+              <form>
               <div className="row">
-                    <div className="input-field col s6">
+                    <div className="input-field col s12">
                       <input id="user_name" type="text" className="validate"></input>
                       <label for="user_name">User Name</label>
                     </div>
                   </div>
               <div className="row">
-                    <div className="input-field col s6">
+                    <div className="input-field col s12">
                       <input id="pw" type="text" className="validate"></input>
                       <label for="pw">Password</label>
                     </div>
                   </div>
+              </form>
             </div>
             <div className="modal-footer">
               <a href="#!" className="modal-action modal-close waves-effect waves-green btn-flat ">Submit</a>

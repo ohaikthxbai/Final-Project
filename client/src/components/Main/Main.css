@@ -23,3 +23,7 @@ main {
 .main-btns {
     padding: 10px 0px;
 }
+
+.modal {
+    text-align: center;
+}
