@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+]>
+<svg version="1.1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="307.203px" height="381.988px" viewBox="0 0 307.203 381.988" enable-background="new 0 0 307.203 381.988"
+	 xml:space="preserve">
+<g id="Layer_2">
+	<g id="Layer_3">
+	</g>
+</g>
+<g id="Layer_4">
+	<g>
+		<rect x="0.793" fill="#828487" width="268.101" height="381.813"/>
+		<g>
+			<g>
+				<rect x="0.711" y="152.141" fill="#828487" width="121.651" height="38.145"/>
+				<rect x="0.711" y="190.286" fill="#828487" width="121.651" height="39.387"/>
+			</g>
+			<path fill="#828487" d="M306.852,152.141c-12.007,11.74-26.054,26.405-38.062,38.145"/>
+			<path fill="#828487" d="M306.852,152.144c0.032-0.029,0.059-0.064,0.087-0.093V37.185L269.699,0h-40.291v152.141h77.443V152.144z
+				"/>
+			<path fill="#828487" d="M306.852,228.93v0.743h-77.443v152.14h39.486l38.044-37.896V229.022
+				C306.91,228.993,306.88,228.958,306.852,228.93z"/>
+			<path fill="#828487" d="M306.852,152.144v-0.003h-77.443v38.145h39.381l37.363-37.259
+				C306.353,152.707,306.583,152.41,306.852,152.144z"/>
+			<g>
+				<rect x="185.379" y="152.141" fill="#828487" width="44.03" height="38.145"/>
+				<rect x="185.379" y="190.286" fill="#828487" width="44.03" height="39.387"/>
+			</g>
+			<path fill="#828487" d="M306.558,228.563l-38.384-38.277h-38.765v39.387h77.443v-0.743
+				C306.746,228.811,306.647,228.688,306.558,228.563z"/>
+			<rect x="0.793" fill="#828487" width="77.53" height="381.813"/>
+			<polygon fill="#828487" points="0.798,0 0.798,77.53 306.938,77.53 306.938,37.979 268.813,0 			"/>
+			<polygon fill="#828487" points="268.726,381.988 0.711,381.988 0.711,304.455 306.852,304.455 306.852,344.007 			"/>
+		</g>
+		<g display="none">
+			<g display="inline">
+				<polyline fill="#828487" points="122.861,153.378 78.151,153.525 78.151,76.071 122.861,76.071 				"/>
+				<line fill="#828487" x1="78.151" y1="114.798" x2="0" y2="114.798"/>
+			</g>
+			<g display="inline">
+				<polyline fill="#828487" points="184.871,76.071 227.181,76.071 229.584,76.071 229.584,153.522 184.871,153.522 				"/>
+				<line fill="#828487" x1="229.584" y1="114.796" x2="307.203" y2="114.796"/>
+			</g>
+		</g>
+		<g display="none">
+			<g display="inline">
+				<polyline fill="#828487" points="122.846,306.089 78.238,306.234 78.238,228.164 122.846,228.164 				"/>
+				<line fill="#828487" x1="78.238" y1="267.2" x2="0.268" y2="267.2"/>
+			</g>
+			<g display="inline">
+				<polyline fill="#828487" points="184.712,228.164 226.93,228.164 229.324,228.164 229.324,306.231 184.712,306.231 				"/>
+				<line fill="#828487" x1="229.324" y1="267.198" x2="306.767" y2="267.198"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<rect x="9.057" y="10.574" fill="#565656" width="252.168" height="359.123"/>
+		<g>
+			<g>
+				<rect x="8.98" y="153.674" stroke="#000000" stroke-miterlimit="10" width="114.421" height="35.878"/>
+				<rect x="8.98" y="189.552" stroke="#000000" stroke-miterlimit="10" width="114.421" height="37.046"/>
+			</g>
+			<path stroke="#000000" stroke-miterlimit="10" d="M296.927,153.674c-11.293,11.042-24.505,24.836-35.8,35.878"/>
+			<path stroke="#000000" stroke-miterlimit="10" d="M296.927,153.677c0.031-0.027,0.055-0.061,0.082-0.088V45.549l-35.026-34.975
+				h-37.896v143.1h72.84V153.677z"/>
+			<path stroke="#000000" stroke-miterlimit="10" d="M296.927,225.899v0.699h-72.84v143.099h37.139l35.783-35.644V225.986
+				C296.982,225.959,296.954,225.926,296.927,225.899z"/>
+			<path stroke="#000000" stroke-miterlimit="10" d="M296.927,153.677v-0.002h-72.84v35.878h37.041l35.143-35.045
+				C296.458,154.206,296.675,153.927,296.927,153.677z"/>
+			<g>
+				<rect x="182.673" y="153.674" stroke="#000000" stroke-miterlimit="10" width="41.413" height="35.878"/>
+				<rect x="182.673" y="189.552" stroke="#000000" stroke-miterlimit="10" width="41.413" height="37.046"/>
+			</g>
+			<path stroke="#000000" stroke-miterlimit="10" d="M296.651,225.555l-36.103-36.002h-36.462v37.046h72.84v-0.699
+				C296.828,225.787,296.735,225.672,296.651,225.555z"/>
+			<rect x="9.057" y="10.574" stroke="#000000" stroke-miterlimit="10" width="72.923" height="359.123"/>
+			<polygon stroke="#000000" stroke-miterlimit="10" points="9.063,10.574 9.063,83.497 297.009,83.497 297.009,46.297 
+				261.15,10.574 			"/>
+			<polygon stroke="#000000" stroke-miterlimit="10" points="261.067,369.862 8.98,369.862 8.98,296.937 296.927,296.937 
+				296.927,334.138 			"/>
+		</g>
+		<g>
+			<g>
+				<polyline fill="none" stroke="#C9C9C9" stroke-width="4" stroke-miterlimit="10" points="123.87,154.838 81.818,154.976 
+					81.818,82.125 123.87,82.125 				"/>
+				<line fill="none" stroke="#C9C9C9" stroke-width="4" stroke-miterlimit="10" x1="81.818" y1="118.55" x2="8.311" y2="118.55"/>
+			</g>
+			<g>
+				<polyline fill="none" stroke="#C9C9C9" stroke-width="4" stroke-miterlimit="10" points="182.196,82.125 221.991,82.125 
+					224.251,82.125 224.251,154.973 182.196,154.973 				"/>
+				
+					<line fill="none" stroke="#C9C9C9" stroke-width="4" stroke-miterlimit="10" x1="224.251" y1="118.549" x2="297.258" y2="118.549"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<polyline fill="none" stroke="#C9C9C9" stroke-width="4" stroke-miterlimit="10" points="123.857,298.473 81.9,298.61 
+					81.9,225.179 123.857,225.179 				"/>
+				<line fill="none" stroke="#C9C9C9" stroke-width="4" stroke-miterlimit="10" x1="81.9" y1="261.895" x2="8.563" y2="261.895"/>
+			</g>
+			<g>
+				<polyline fill="none" stroke="#C9C9C9" stroke-width="4" stroke-miterlimit="10" points="182.046,225.179 221.755,225.179 
+					224.007,225.179 224.007,298.607 182.046,298.607 				"/>
+				
+					<line fill="none" stroke="#C9C9C9" stroke-width="4" stroke-miterlimit="10" x1="224.007" y1="261.894" x2="296.848" y2="261.894"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
