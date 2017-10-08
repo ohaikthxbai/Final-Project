@@ -21,8 +21,8 @@ class Main extends React.Component {
                             <h2>Organize and run tournaments</h2>
                             <p>Create brackets for your favorite sports and events!</p>
                             <ul>
-                                <li className="main-btns"><a className="waves-effect waves-light btn">About</a></li>
-                                <li className="main-btns"><a className="waves-effect waves-light btn modal-trigger" href="#sign-up">Sign up</a></li>
+                                <li className="main-btns"><a className="black-text waves-effect waves-light btn grey lighten-1">About</a></li>
+                                <li className="main-btns"><a className="black-text waves-effect waves-light btn modal-trigger grey lighten-1" href="#sign-up">Sign up</a></li>
                                 <li className="main-btns"><a className="waves-effect waves-light btn pink darken-4">Create Bracket</a></li>
                             </ul>
                         </div>
@@ -76,7 +76,7 @@ class Main extends React.Component {
                     </div>
 
                     <div className="modal-footer">
-                        <a href="#!" className="btn modal-action modal-close waves-effect waves-light">Submit</a>
+                        <a href="#!" className="waves-effect waves-light btn pink darken-4 modal-action modal-close">Submit</a>
                     </div>
                 </div>
 
@@ -100,7 +100,7 @@ class Main extends React.Component {
                         </form>
                     </div>
                     <div className="modal-footer">
-                        <a href="#!" className="btn modal-action modal-close waves-effect waves-light">Submit</a>
+                        <a href="#!" className="modal-action modal-close waves-effect waves-light btn pink darken-4">Submit</a>
                     </div>
                 </div>
 
