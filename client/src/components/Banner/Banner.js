@@ -6,7 +6,8 @@ class Banner extends React.Component {
         return (
             <main>
                 <div className="container">
-                    <div className="section"> 
+                    <div className="white-text section"> 
+                        <img src="../image/bringit-logo-pink" alt="logo" />
                         <h1>BRING IT!</h1>
                         <h5><i>Tournament Bracket Generator</i></h5>
                     </div>

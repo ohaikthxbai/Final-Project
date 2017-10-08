@@ -2,6 +2,7 @@ import React from 'react';
 import './Main.css';
 import { BrowserRouter as Router, Link, Route } from 'react-router-dom';
 
+
 class Main extends React.Component {
     render() {
         return (
@@ -15,8 +16,10 @@ class Main extends React.Component {
                     <li><a className="modal-trigger" href="#log-in">Log in</a></li>
                 </ul>
 
+                {/* MAIN SECTION */}
+
                 <div>
-                    <div id="main-sec" className="section z-depth-5">
+                    <div id="main-sec" className="section z-depth-5"> 
                         <div className="row">
                             <h2>Organize and run tournaments</h2>
                             <p>Create brackets for your favorite sports and events!</p>

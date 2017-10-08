@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Link, Route } from 'react-router-dom';
-
+import Logo from "../../image/bringit-logo-pink.png";
 
 class Navbar extends React.Component {
   render() {
@@ -9,7 +9,7 @@ class Navbar extends React.Component {
         <div className="navbar-fixed">
           <nav className="transparent z-depth-0">
             <div className="nav-wrapper">
-              <a className="brand-logo" href="" >BRING IT</a>
+              <a className="brand-logo" href="" ><img src='{Logo}' alt="logo"/> | BRING IT</a>
               <a href="" data-activates="mobile-demo" className="button-collapse"><i className="material-icons">menu</i></a>
               <ul className="right hide-on-med-and-down">
                 <li><Link to="/about">About</Link></li>
