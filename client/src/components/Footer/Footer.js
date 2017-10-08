@@ -6,9 +6,9 @@ class Footer extends React.Component {
         return (
             <footer className="page-footer">
                 <div className="footer-copyright">
-                    <div className="container">
+                    <div className="white-text container">
                         © 2017 - ohaikthxbai
-              <a className="grey-text text-lighten-4 right" href="#!">More Links</a>
+              <a className="white-text right" href="#!">More Links</a>
                     </div>
                 </div>
             </footer>
