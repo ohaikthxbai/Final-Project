@@ -4,14 +4,14 @@ import './Banner.css';
 class Banner extends React.Component {
     render() {
         return (
-            <main>
-                <div className="container">
+            <section>
+                <div id="banner-sec" className="container">
                     <div className="white-text section"> 
                         <h1>BRING IT!</h1>
                         <h5><i>Tournament Bracket Generator</i></h5>
                     </div>
                 </div>
-            </main>
+            </section>
         )
     }
 }

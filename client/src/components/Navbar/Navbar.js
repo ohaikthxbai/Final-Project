@@ -8,7 +8,7 @@ class Navbar extends React.Component {
         <div className="navbar-fixed">
           <nav className="transparent z-depth-0">
             <div className="nav-wrapper">
-              <a className="brand-logo" href="" ><img src="../../public/img/bringit-logo-pink.png" alt="logo"/> | BRING IT</a>
+              <a className="brand-logo" href="" ><img src="../../public/img/bringit-logo-pink.png" alt="logo" /> | BRING IT</a>
               <a href="" data-activates="mobile-demo" className="button-collapse"><i className="material-icons">menu</i></a>
               <ul className="right hide-on-med-and-down">
                 <li><Link to="/about">About</Link></li>

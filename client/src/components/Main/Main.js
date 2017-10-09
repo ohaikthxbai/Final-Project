@@ -1,7 +1,7 @@
 import React from 'react';
 import './Main.css';
 import { BrowserRouter as Router, Link, Route } from 'react-router-dom';
-
+import Create from '../CreateBracket/Create';
 
 class Main extends React.Component {
     render() {
@@ -39,7 +39,10 @@ class Main extends React.Component {
                             </ol>
                         </div>
 
+                        <Create />
+
                     </div>
+                    
                 </div>
 
                 {/* MODAL DIVS HERE */}
@@ -64,13 +67,13 @@ class Main extends React.Component {
                                 </div>
                                 <div className="row">
                                     <div className="input-field col s12">
-                                        <input id="pw" type="text" className="validate"></input>
+                                        <input id="pw" type="password" className="validate"></input>
                                         <label for="pw">Password</label>
                                     </div>
                                 </div>
                                 <div className="row">
                                     <div className="input-field col s12">
-                                        <input id="confirm_pw" type="text" className="validate"></input>
+                                        <input id="confirm_pw" type="password" className="validate"></input>
                                         <label for="confirm_pw">Confirm Password</label>
                                     </div>
                                 </div>
