@@ -13,6 +13,8 @@ app.use(express.static("client/build"));
 // Add routes, both API and view
 //app.use(routes);
 
+// defining local mongodb URI
+var databaseUri = 'mongodb://localhost/bringit-bracket';
 // Set up promises with mongoose
 mongoose.Promise = global.Promise;
 // Connect to the Mongo DB
