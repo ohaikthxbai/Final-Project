@@ -34,13 +34,3 @@ input:not([type]):focus:not([readonly]), input[type=text]:not(.browser-default):
     border-bottom: 1px solid #590424;
 }
 
-.modal {
-    background-color: #F1F1F1;
-    text-align: center;
-    border: 10px solid #9CA491;
-
-}
-
-.modal .modal-footer {
-    background-color: #F1F1F1;
-}
