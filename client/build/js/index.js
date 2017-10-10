@@ -12,7 +12,7 @@
         var navbar = $("nav");
         var scroll = $(window).scrollTop();
 
-        if (scroll >= 300) {
+        if (scroll >= 200) {
             navbar.removeClass('transparent').addClass("bg-color");
         } else {
             navbar.removeClass("bg-color").addClass('transparent');
