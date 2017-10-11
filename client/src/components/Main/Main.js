@@ -31,10 +31,10 @@ class Main extends React.Component {
 
                             <h4>testing routes here:</h4>
                             <ul>
-                                <li className="main-btns"><a className="black-text waves-effect waves-light btn grey lighten-1">About</a></li>
-                                <li className="main-btns"><a className="black-text waves-effect waves-light btn grey lighten-1">Log In</a></li>
-                                <li className="main-btns"><a className="black-text waves-effect waves-light btn modal-trigger grey lighten-1" href="#sign-up">Sign up</a></li>
-                                <li className="main-btns"><a className="waves-effect waves-light btn pink darken-4">Create Bracket</a></li>
+                                <li><Link to="/about" className="main-btns black-text waves-effect waves-light btn grey lighten-1">About</Link></li>
+                                <li><Link to="/login" className="main-btns black-text waves-effect waves-light btn grey lighten-1">Log In</Link></li>
+                                <li><Link to="/signup" className="main-btns black-text waves-effect waves-light btn modal-trigger grey lighten-1" href="#sign-up">Sign up</Link></li>
+                                <li><Link to="/create" className="main-btns waves-effect waves-light btn pink darken-4">Create Bracket</Link></li>
                             </ul>
                         </div>
                         <About />
