@@ -1,0 +1,4 @@
+{
+	"dbUri": "mongodb://localhost/bringit-bracket",
+    "jwtSecret": "test test"
+}
