@@ -13,7 +13,6 @@ class SignUpState extends React.Component {
             errors: {},
             user: {
                 user_name: '',
-                email: '',
                 password: '',
                 confirm_pw: ''
             }
@@ -38,7 +37,6 @@ class SignUpState extends React.Component {
         event.preventDefault();
 
         console.log('user_name:', this.state.user.user_name);
-        console.log('email:', this.state.user.email);
         console.log('password:', this.state.user.password);
         console.log('confirm_pw:', this.state.user.confirm_pw);
     }

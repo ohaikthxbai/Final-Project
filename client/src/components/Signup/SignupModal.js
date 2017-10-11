@@ -18,12 +18,6 @@ class SignupModal extends React.Component {
                             </div>
                             <div className="row">
                                 <div className="input-field col s12">
-                                    <input id="email" type="email" className="validate"></input>
-                                    <label for="email" data-error="wrong" data-success="right">Email Address</label>
-                                </div>
-                            </div>
-                            <div className="row">
-                                <div className="input-field col s12">
                                     <input id="pw" type="password" className="validate"></input>
                                     <label for="pw">Password</label>
                                 </div>
