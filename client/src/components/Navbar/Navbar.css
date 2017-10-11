@@ -7,8 +7,7 @@
     height: 60px;
 }
 
-
-@media (max-width: 550px) {
+@media (max-width: 600px) {
 .brand-logo img {
       height: 50px;
     }
