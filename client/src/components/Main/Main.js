@@ -30,15 +30,15 @@ class Main extends React.Component {
                                 <p>Create brackets for your favorite sports and events!</p>
 
                                 <h4>testing routes here:</h4>
+                                {this.props.children}
                                 <ul id="main-list">
                                     <li><Link to="/about" className=" black-text waves-effect waves-light btn grey lighten-1">About</Link></li>
+                                    <Route path="/about" component={About}/>
                                     <li><Link to="/login" className=" black-text waves-effect waves-light btn grey lighten-1">Log In</Link></li>
                                     <li><Link to="/signup" className=" black-text waves-effect waves-light btn modal-trigger grey lighten-1" href="#sign-up">Sign up</Link></li>
                                     <li><Link to="/create" className=" waves-effect waves-light btn pink darken-4">Create Bracket</Link></li>
                                 </ul>
                             </div>
-                            <About />
-                            <Create />
                         </div>
                     </div>
                     <SignupModal />
