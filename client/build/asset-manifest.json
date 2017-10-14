@@ -1,7 +1,8 @@
 {
-  "main.css": "static/css/main.3e86cc6c.css",
-  "main.css.map": "static/css/main.3e86cc6c.css.map",
-  "main.js": "static/js/main.76e171ad.js",
-  "main.js.map": "static/js/main.76e171ad.js.map",
-  "static\\media\\bringit-logo-pink-invert.svg": "static/media/bringit-logo-pink-invert.c58348d4.svg"
+  "main.css": "static/css/main.8ac65015.css",
+  "main.css.map": "static/css/main.8ac65015.css.map",
+  "main.js": "static/js/main.cd7e9bb2.js",
+  "main.js.map": "static/js/main.cd7e9bb2.js.map",
+  "static/media/bringit-logo-pink-invert.svg": "static/media/bringit-logo-pink-invert.576435bc.svg",
+  "static/media/loading.svg": "static/media/loading.c5590569.svg"
 }
