@@ -5,6 +5,7 @@ import Create from '../CreateBracket/Create';
 import LoginModal from '../Login/LoginModal';
 import SignupModal from '../Signup/SignupModal';
 import About from '../About/About';
+import Mobile from '../Mobile/Mobile';
 
 
 class Main extends React.Component {
@@ -15,11 +16,7 @@ class Main extends React.Component {
 
                     {/* RESPONSIVE NAV BAR */}
 
-                    <ul className="side-nav" id="mobile-demo">
-                        <li><Link to="/about">About</Link></li>
-                        <li><a className="modal-trigger" href="#sign-up">Sign Up</a></li>
-                        <li><a className="modal-trigger" href="#log-in">Log in</a></li>
-                    </ul>
+                    <Mobile />
 
                     {/* MAIN SECTION */}
 
