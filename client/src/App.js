@@ -69,6 +69,17 @@ class App extends Component {
                   </li>
                 )
               }
+                          {
+              isAuthenticated() && (
+                  <li
+                    bsStyle="primary"
+                    className="btn-margin"
+                    onClick={this.goTo.bind(this, 'profile')}
+                  >
+                    Bracket
+                  </li>
+                )
+            }
               {
                 isAuthenticated() && (
                   <li
