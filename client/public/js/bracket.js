@@ -3,12 +3,13 @@
 
                 // create bracket button pressed, run function(s) below
                 $('#render').on('click', function () {
-
+                    $('#bracket-form').hide();
                     // user input: bracket size/number of entrants
                     var entrants = $('#bracket_size').val(); // Set the number of participants
                     console.log(entrants);
-                    var tourneyName = $('#tournament').val();
+                    var tourneyName = $('#tName').val();
                     console.log(tourneyName);
+                    $('#tName').append(tourneyName);
 
                     // not sure what this is
                     if (!String.prototype.format) {
@@ -80,7 +81,7 @@
                         return seed <= participantsCount ? seed : null;
                     }
 
-                    var leftBracket = {
+                    var bracketDiv = {
                         teams: bracket,
                         results: [
                             [
@@ -105,8 +106,8 @@
                     }
 
                     $(function () {
-                        $('div#leftBracket').bracket({
-                            init: leftBracket,
+                        $('div#bracketDiv').bracket({
+                            init: bracketDiv,
                             skipConsolationRound: true,
                             save: saveFn,
                             disableToolbar: true,
